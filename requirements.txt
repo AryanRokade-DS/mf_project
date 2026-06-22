@@ -1,0 +1,59 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "142fe831-e955-4b0e-9b8d-a5760c3a9c34",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "pandas\n",
+    "numpy\n",
+    "matplotlib\n",
+    "seaborn\n",
+    "plotly\n",
+    "sqlalchemy\n",
+    "requests\n",
+    "scipy\n",
+    "jupyter"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a7bfe20d-87d2-4ac8-87fd-2fa7a4b8637e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "12c9380e-e51f-4061-a337-46ad3b5ca1eb",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
